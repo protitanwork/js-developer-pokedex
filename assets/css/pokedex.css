@@ -163,3 +163,11 @@
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
 }
+.pokemon-link{
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+.pokemon-link:active{
+  transform: scale(0.99);
+}
